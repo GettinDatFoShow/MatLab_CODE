@@ -11,7 +11,9 @@
 % Each Graph/plot is explained, please Maximize figure after running for 
 % Full effect.
 
-clc; clear; close all
+clc;
+clear; 
+close all;
 
 numPopulation= 1000000;
 maxWeight= 300;
